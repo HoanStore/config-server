@@ -1,10 +1,10 @@
 server:
   port: 9900
 
-spiring:
+spring:
   cloud:
     config:
       server:
         git:
-          uri: https://gitlab.com/kkjin/namoosori-config.git
+          uri: https://github.com/HoanStore/config-server.git
 
